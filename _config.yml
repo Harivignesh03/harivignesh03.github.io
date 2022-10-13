@@ -1,5 +1,4 @@
 # Site Settings
-ignore_theme_config: BOOL
 title: Start Jekyll
 email: oganianlab@posteo.de
 description: >
@@ -14,3 +13,4 @@ sass:
 include: ['_pages']
 kramdown:
   input: GFM
+  ignore_theme_config: BOOL
