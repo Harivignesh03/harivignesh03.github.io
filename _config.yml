@@ -11,6 +11,6 @@ github_username:  HVCLab
 sass:
   sass_dir: _sass
 include: ['_pages']
-kramdown:
+markdown:
   input: GFM
-  ignore_theme_config: BOOL
+  
